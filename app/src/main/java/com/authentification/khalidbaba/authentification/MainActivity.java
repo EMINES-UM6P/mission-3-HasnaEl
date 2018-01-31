@@ -65,4 +65,8 @@ public class MainActivity extends Activity {
 
 
     }
+
+    public void handleClick(View view){
+        Log.i("btn_Login", "Login button clicked");
+    }
 }

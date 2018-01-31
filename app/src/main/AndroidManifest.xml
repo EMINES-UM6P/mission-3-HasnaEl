@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.authentification.khalidbaba.authentification">
+<uses-permission android:name="android.permission.INTERNET" />
+
 
     <!-- TODO 5 : Add the INTERNET permission-->
+
 
     <application
         android:name=".AppController"

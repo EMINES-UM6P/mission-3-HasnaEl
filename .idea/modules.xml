@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Authentification.iml" filepath="$PROJECT_DIR$/Authentification.iml" />
+      <module fileurl="file://C:\Users\hassna.elmajdoubi\AndroidStudioProjects\mission-3-HasnaEl\Authentification.iml" filepath="C:\Users\hassna.elmajdoubi\AndroidStudioProjects\mission-3-HasnaEl\Authentification.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\hassna.elmajdoubi\AndroidStudioProjects\mission-3-HasnaEl\app\app.iml" filepath="C:\Users\hassna.elmajdoubi\AndroidStudioProjects\mission-3-HasnaEl\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mission-3-HasnaEl.iml" filepath="$PROJECT_DIR$/mission-3-HasnaEl.iml" />
     </modules>
   </component>
 </project>
